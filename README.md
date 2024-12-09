@@ -1,8 +1,8 @@
-:wave: Hey there, my name is Nelson.  
-:construction_worker: I work full-time as a mechanical engineer, and study software development at night.  
-:computer: I’m currently learning Java and Full Stack Web Development.  
-:mag: I’m looking for an entry level position in Java or Web development in Malaysia or Singapore.  
-:mailbox_with_mail: You can reach out to me through my email address on my GitHub Profile, or my website cnkhor.dev
+:wave: Hey there! My name is Nelson.
+:construction_worker: I work full-time as a Fullstack Developer, specializing in Frontend Development.
+:computer: I’m currently learning Java (Spring Boot) and Golang on the side.
+:mag: I’m casually looking for new opportunities in Web Development in Malaysia, Thailand, or Singapore.
+:mailbox_with_mail: Feel free to reach out to me via the email address on my GitHub profile.
 
 <!---
 NelsonKhor/NelsonKhor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
